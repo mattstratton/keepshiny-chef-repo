@@ -28,3 +28,4 @@ knife[:availability_zone] = "us-west-1b"
 
 # AWS SSH Keypair.
 #knife[:aws_ssh_key_id] = ""
+identity_file = '/Users/mstratton/.ssh/chefami.pem'
